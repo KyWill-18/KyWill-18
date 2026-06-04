@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there! I'm Kyla Williams!
 
-<!--
-**KyWill-18/KyWill-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👩🏿‍💻 About Me </h3>
 
-Here are some ideas to get you started:
+- ⭐️ &nbsp; Aspiring Game Programmer/Software Engineer 
+- 🎓 &nbsp; Studying Computer Science with a concentration in Game Design & Development @ Ball State University
+- 📝 &nbsp; Currently: Working on Vinyl Vault 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Java | Python | C | GDScript
+- 🌐 &nbsp; -
+- 🎮 &nbsp; Godot
+- 🛢 &nbsp; -
+- 🔧 &nbsp; Git | GitHub
+
