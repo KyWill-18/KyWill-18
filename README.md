@@ -1,17 +1,25 @@
 ### Hi there! I'm Kyla Williams!
 
-<h3> 👩🏿‍💻 About Me </h3>
+## 👩🏿‍💻 About Me 
 
-- ⭐️ &nbsp; Aspiring Game Programmer/Software Engineer 
-- 🎓 &nbsp; Studying Computer Science with a concentration in Game Design & Development @ Ball State University
-- 📝 &nbsp; Currently: Working on Vinyl Vault 
+* **🎓 Education:** Studying Computer Science (Concentration in Game Design & Development) @ **Ball State University *chirp chirp*
+* **⭐️ Goal:** Aspiring Game Programmer & Software Engineer 
+* **📝 Current Project:** Developing **Vinyl Vault** & **CS315 Game Programming Project**
+* **🌱Learning:** Gameplay Programming and Engine Architecture using Godot
 
 
-<h3>🛠 Tech Stack</h3>
+## 🛠 Tech Stack
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | `Java` • `Python` • `C` • `GDScript` |
+| **Engines & Frameworks** | `Godot Engine` |
+| **Tools & Version Control** | `Git` • `GitHub` |
 
-- 💻 &nbsp; Java | Python | C | GDScript
-- 🌐 &nbsp; -
-- 🎮 &nbsp; Godot
-- 🛢 &nbsp; -
-- 🔧 &nbsp; Git | GitHub
+## 📊 GitHub Stats
+<p align="left">
+  <img src="https://vercel.app" alt="Kyla's GitHub Stats" height="150" />
+  <img src="https://vercel.app" alt="Top Languages" height="150" />
+</p>
 
+##📫 Connect With ME
+[![LinkedIn](https://shields.io)](linkedin.com/in/kyla-williams18)
