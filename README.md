@@ -15,11 +15,10 @@
 | **Tools & Version Control** | `Git` • `GitHub` |
 
 ## 📊 GitHub Stats
-
 <p align="left">
   <img src="https://vercel.app" alt="Kyla's GitHub Stats" height="150" />
   <img src="https://vercel.app" alt="Top Languages" height="150" />
 </p>
 
-## 📫 Connect With ME
+## 📫 Connect With Me!
 [![LinkedIn](https://shields.io)](https://linkedin.com/in/kyla-williams18)
