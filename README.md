@@ -14,11 +14,7 @@
 | **Engines & Frameworks** | `Godot Engine` |
 | **Tools & Version Control** | `Git` • `GitHub` |
 
-## 📊 GitHub Stats
-<p align="left">
-  <img src="https://vercel.app" alt="Kyla's GitHub Stats" height="150" />
-  <img src="https://vercel.app" alt="Top Languages" height="150" />
-</p>
-
 ## 📫 Connect With Me!
-[![LinkedIn](https://shields.io)](https://linkedin.com/in/kyla-williams18)
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/kyla-williams18/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BLqUjN5PTRyeyZmTVvN%2Byrg%3D%3D)
+
+
