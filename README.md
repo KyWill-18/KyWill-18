@@ -14,7 +14,15 @@
 | **Engines & Frameworks** | `Godot Engine` |
 | **Tools & Version Control** | `Git` • `GitHub` |
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KyWill-18&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
 ## 📫 Connect With Me!
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/kyla-williams18/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BLqUjN5PTRyeyZmTVvN%2Byrg%3D%3D)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kyla-williams18)
 
-
+## 🎧 Beyond the Code
+* **🎮 Currently Playing:** Cyberpunk 2077 (...again)
+* **🎵 On Repeat:** Billie Eilish, Dominic Fike, & Beabadoobee
+* **🍿 Binge-Watching:** Yellowjackets
