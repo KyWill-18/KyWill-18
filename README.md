@@ -10,13 +10,13 @@
 ## 🛠 Tech Stack
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | `Java` • `Python` • `C` • `GDScript` |
+| **Languages** | `Java` • `GDScript` • `Python` • `C` |
 | **Engines & Frameworks** | `Godot Engine` |
 | **Tools & Version Control** | `Git` • `GitHub` |
 
 ## 📊 GitHub Stats
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=KyWill-18&custom_title=Kyla%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=KyWill-18&custom_title=Kyla%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=tokyonight)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=KyWill-18&layout=compact&langs_count=4&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=KyWill-18&layout=compact&langs_count=4&theme=tokyonight)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=KyWill-18&layout=compact&langs_count=4&theme=tokyonight&exclude_repo=YOUR_EXACT_REPO_NAME&v=5)](https://github-stats-extended.vercel.app/api/top-langs?username=KyWill-18&layout=compact&langs_count=4&theme=tokyonight)
 
 ## 📫 Connect With Me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kyla-williams18)
